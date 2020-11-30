@@ -1,0 +1,92 @@
+.carousel-item img{
+    max-width: 100%;
+    height: auto;
+}
+
+.carousel-caption h1{
+    width: auto;
+    font-size: 60px;
+    position: relative;
+    left: 0px;
+    top: 10px;
+}
+
+.sec2 h5{
+    width: auto;
+    font-size: 25px;
+    position: relative;
+    left: 55px;
+    top: 120px;
+}
+
+.sec2 button{
+    position: absolute;
+    left: 120px;
+    top: 270px;
+   
+}
+
+.sec21{
+    position: relative;
+    left: 260px;
+}
+
+.sec21 a{
+    padding: 5px;
+    position: relative;
+    top: 0px;
+    left: 20px;
+}
+
+.sec3{
+    position: relative;
+    top: 80px;
+    left: -100px;
+}
+
+.sec31{
+    position: relative;
+    top: 80px;
+    left: 10px;
+
+}
+.sec32{
+    position: relative;
+    top: 80px;
+    left: 150px;
+}
+
+.prog{
+    position: relative;
+    left: 70px;
+    top: 80px;
+}
+
+
+.pro{
+    position: relative;
+    left: 70px;
+    top: 120px;
+}
+
+.map{
+    width: 100%;
+    height: auto;
+}
+
+.formed{
+    width: 100%;
+    height: auto;
+    position: relative;
+    left: 0px;
+}
+
+
+.formed input{
+    width: 300px;
+}
+
+.formed textarea{
+    width: 300px;
+}
+

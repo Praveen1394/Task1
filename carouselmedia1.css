@@ -1,0 +1,164 @@
+.carousel-caption h1{
+    width: auto;
+    font-size: 20px;
+    position: relative;
+    left: 0px;
+    top: 20px;
+}
+
+.carousel-caption h2{
+    font-size: 20px;
+    position: relative;
+    left: 0px;
+    top: 20px;
+}
+
+.carousel-caption button{
+    font-size: 10px;
+    padding: 5px;
+    position: relative;
+    left: 0px;
+    top: 30px;
+
+
+}
+
+.sec2 p{
+    font-size: 10px;
+    position: relative;
+    left: -95px;
+    top: 170px;
+}
+
+.sec2 h5{
+    width: auto;
+    font-size: 15px;
+    position: absolute;
+    left: -25px;
+    top: 190px;
+}
+
+.sec2 button{
+    position: absolute;
+    left: 20px;
+    top: 270px;
+   
+}
+
+.sec21{
+    position: relative;
+    left: -60px;
+}
+
+.sec21 a{
+    width: 100px;
+    position: relative;
+    top: 0px;
+    left: 15px;
+}
+.sec21 a img{
+    width: 75px;
+}
+
+.sec21 p{
+    font-size: 10px;
+    position: relative;
+    left: -5px;
+}
+
+.sec21 a img:hover{
+    width: 85px;
+}
+
+.sec3{
+    font-size: 10px;
+    position: relative;
+    top: 80px;
+    left: -40px;
+}
+
+.sec31{
+    font-size: 10px;
+    position: relative;
+    top: 80px;
+    left: 10px;
+
+}
+.sec32{
+    font-size: 10px;
+    position: relative;
+    top: 80px;
+    left: 20px;
+}
+
+.sec32 li{
+    list-style-type: none;
+}
+
+.sec32 li::before{
+    content: "•";
+    padding: 8px;
+    color: red;
+}
+.prog{
+    width: 250px;
+    height: 2px;
+    position: relative;
+    left: 20px;
+    top: 80px;
+}
+
+.prog1{
+    height: 10px;
+}
+.prog2{
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.pro{
+    width: 250px;
+    height: 2px;
+    position: relative;
+    left: 20px;
+    top: 140px;
+}
+
+.section3{
+    height: 400px;
+}
+
+.map{
+    width: 100%;
+    height: auto;
+}
+
+.formed{
+    width: 100%;
+    height: auto;
+    position: relative;
+    left: 15px;
+    top: 10px;
+}
+
+.formed input{
+    width: 250px;
+}
+
+.formed textarea{
+    width: 250px;
+}
+
+.foot{
+    width: 100%;
+    font-size: 12px;
+}
+
+.foot h1{
+    font-size: 15px;
+}
+
+.foot3{
+    position: relative;
+    top: -50px;
+}
